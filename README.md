@@ -9,5 +9,4 @@
 
 ## New Dishes
 * [Salsa](salsa.md)
-
-* [Secret Sause]
+* [Tartar](tartar.md)
