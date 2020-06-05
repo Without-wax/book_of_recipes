@@ -11,3 +11,4 @@
 * [Salsa](salsa.md)
 
 * [Secret Sause](Secret Sauce)
+* [Tartar](tartar.md)
