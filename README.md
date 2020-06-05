@@ -5,3 +5,9 @@
 
 ## Hot sauces
 * [Egusi](Egusi.md)
+
+
+## New Dishes
+* [Salsa](salsa.md)
+
+* [Secret Sause](Secret Sauce)
