@@ -1,0 +1,3 @@
+lettuce
+tomatoes
+salad dressing
